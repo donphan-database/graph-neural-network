@@ -1,0 +1,6 @@
+.out
+.results
+.scripts
+
+__pycache__
+.idea
