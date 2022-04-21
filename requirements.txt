@@ -1,0 +1,7 @@
+rdkit=2021.09.5
+tqdm=4.50.2
+pytorch=1.10.2
+pyg=0.3.0
+sklearn=1.0.2
+prody=2.0.2
+pyvista=0.33.3
